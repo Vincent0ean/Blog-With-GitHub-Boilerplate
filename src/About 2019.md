@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 致过去的十年
-slug: typography
+slug: to-the-past-ten-years
 date: 2019-12-18 16:50
 status: publish
 author: vind
