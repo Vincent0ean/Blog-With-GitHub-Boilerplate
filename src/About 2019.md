@@ -1,3 +1,16 @@
+---
+layout: post
+title: 致过去的十年
+slug: typography
+date: 2019-12-18 16:50
+status: publish
+author: AlanDecode
+categories: 
+  - 日记
+tags:
+  - 日记
+excerpt: 曾经朦胧的梦想，还没等我看清，就已经开始褪色了。
+---
 # 21
 
 ***曾经朦胧的梦想，还没等我看清，就已经开始褪色了。***
