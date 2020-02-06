@@ -29,9 +29,6 @@ external_links = [
         "url": "https://github.com/AlanDecode/Maverick",
         "brief": "🏄‍ Go My Own Way."
     },
-    {
-
-    }
 ]
 nav = [
     {
