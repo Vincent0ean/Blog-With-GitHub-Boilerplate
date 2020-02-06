@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: vincent0ean@gmail.com
 
 Telegram：[Vin D](https://t.me/vin_d)
